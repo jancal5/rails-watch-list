@@ -1,0 +1,9 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("/app/assets/images/banner.jpg");
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  display: block;
+}
